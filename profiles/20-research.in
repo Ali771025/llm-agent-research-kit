@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyterlab
+pytest
+rich
+networkx
+python-dotenv
+pip
+setuptools
+wheel

@@ -1,0 +1,5 @@
+datasets==5.1.0
+deepeval==2.9.3
+evaluate==0.4.6
+ragas==0.4.3
+sacrebleu==2.6.0

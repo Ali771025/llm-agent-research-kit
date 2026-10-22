@@ -1,0 +1,4 @@
+fastapi==0.142.2
+gradio==6.29.1
+streamlit==1.65.0
+uvicorn==0.54.0

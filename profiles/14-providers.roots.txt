@@ -1,0 +1,7 @@
+cohere==7.2.0
+google-genai==2.28.0
+groq==1.7.0
+huggingface-hub==1.33.0
+litellm==1.104.0
+mistralai==3.1.0
+ollama==0.6.3

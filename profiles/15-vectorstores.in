@@ -1,0 +1,5 @@
+qdrant-client
+chromadb
+faiss-cpu
+pymilvus
+pgvector

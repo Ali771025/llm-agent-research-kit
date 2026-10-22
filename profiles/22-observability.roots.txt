@@ -1,0 +1,4 @@
+arize-phoenix==20.19.0
+langfuse==4.17.0
+openinference-instrumentation-openai==0.1.63
+opentelemetry-sdk==1.45.1
