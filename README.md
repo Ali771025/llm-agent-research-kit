@@ -2,6 +2,11 @@
 
 # LLM Agent Research Kit
 
+<!-- project-contact:start -->
+**Work with Yosof Omrani:** [Email a project inquiry](mailto:aliomrani916@gmail.com) · **aliomrani916@gmail.com** · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/) · [Portfolio walkthrough](https://ali771025.github.io/software-portfolio/en/#projects)
+<!-- project-contact:end -->
+
+
 **Small source-only LLM and agent integration research kit with provider examples and target-specific dependency profiles.**
 
 [فارسی](docs/README.fa.md) · [Architecture](docs/ARCHITECTURE.md) · [Publication scope](docs/PUBLIC_EDITION.md)
